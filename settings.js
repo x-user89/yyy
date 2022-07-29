@@ -1,6 +1,6 @@
 //_______________________ ┏  Info  ┓ _______________________\\
 //
-//   Credit : AlipBot
+//   Credit : IRFAK-IT
 //   
 //   Note 
 //   Jangan Jual SC ini ,
@@ -17,7 +17,7 @@
 //_______________________ ┏  Setting  ┓ _______________________\\
 
 // Name Creator
-creator = '乂𝘼𝙡𝙞𝙥乂'
+creator = 'IRFAK-IT'
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
@@ -63,7 +63,7 @@ loghandler = {
     redy: {
     	status: false,
     	code: 403,
-    	message: '[!] Forbiden or Error, Alias ​​already in use',
+    	message: '[!] Forbiden or Error, Alias   already in use',
     	maintanied_by: `${creator}`
     },
     emoji: {
