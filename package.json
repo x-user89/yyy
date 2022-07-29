@@ -1,7 +1,7 @@
 {
-  "name": "rest-api-alpis",
+  "name": "rest-api-IRFAK-IT",
   "version": "2.0.0",
-  "description": "make by alip free rest api",
+  "description": "make by IRFAK-IT free rest api",
   "main": "index.js",
   "engines": {
     "node": "16.x"
@@ -15,19 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlipBot/Api-Alpis.git"
+    "url": "git+https://github.com/x-user89/yyy.git"
   },
   "keywords": [
     "restapi",
     "bot",
     "whatsaap"
   ],
-  "author": "AlipBot",
+  "author": "IRFAK-IT",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlipBot/Api-Alpis/issues"
+    "url": "https://github.com/x-user/yyy/issues"
   },
-  "homepage": "https://github.com/AlipBot/Api-Alpis#readme",
+  "homepage": "https://github.com/x-user/yyy#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "bitly": "^7.1.2",
