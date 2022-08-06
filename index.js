@@ -1,6 +1,6 @@
 //_______________________ ┏  Info  ┓ _______________________\\
 //
-//   Credit : AlipBot
+//   Credit : SecretCode
 //   
 //   Note 
 //   Jangan Jual SC ini ,
@@ -8,7 +8,7 @@
 //   Siapa Mahu Upload Jangan Lupa Credit :),
 //   Siapa Tidak Letak Credit Akan Ambil Tindakan
 //   
-//_______________________ ┏ Make By AlipBot ┓ _______________________\\
+//_______________________ ┏ Make By SecretCode ┓ _______________________\\
 
 const express = require('express'); 
 const app = express();
@@ -57,11 +57,10 @@ app.listen(PORT, () => {
 	██╔══██╗██╔══╝  ╚════██║   ██║   ██╔══██║██╔═══╝ ██║
 	██║  ██║███████╗███████║   ██║   ██║  ██║██║     ██║
 	╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
-			                              Make by Alip 
+			                              Make by SecretCode 
 								 
  Server running on http://localhost:` + PORT)
 console.log(`Hello ${creator}`)
 })
 
 module.exports = app
-
