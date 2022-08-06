@@ -1,6 +1,6 @@
 //_______________________ ┏  Info  ┓ _______________________\\
 //
-//   Credit : IRFAK-IT
+//   Credit : SecretCode
 //   
 //   Note 
 //   Jangan Jual SC ini ,
@@ -8,7 +8,7 @@
 //   Siapa Mahu Upload Jangan Lupa Credit :),
 //   Siapa Tidak Letak Credit Akan Ambil Tindakan
 //   
-//_______________________ ┏ Make By AlipBot ┓ _______________________\\
+//_______________________ ┏ Make By SecretCode ┓ _______________________\\
 
 
 
@@ -17,7 +17,7 @@
 //_______________________ ┏  Setting  ┓ _______________________\\
 
 // Name Creator
-creator = 'IRFAK-IT'
+creator = 'SecretCode'
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
