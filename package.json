@@ -1,7 +1,7 @@
 {
-  "name": "rest-api-IRFAK-IT",
+  "name": "rest-api-SecretCode",
   "version": "2.0.0",
-  "description": "make by IRFAK-IT free rest api",
+  "description": "make by SecretCode free rest api",
   "main": "index.js",
   "engines": {
     "node": "16.x"
@@ -22,7 +22,7 @@
     "bot",
     "whatsaap"
   ],
-  "author": "IRFAK-IT",
+  "author": "SecretCode",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/x-user/yyy/issues"
